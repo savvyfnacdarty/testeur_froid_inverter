@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST-testeur-froid-inverter" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata><schema>ADL SCORM</schema><schemaversion>1.2</schemaversion></metadata>
+  <organizations default="ORG-1">
+    <organization identifier="ORG-1">
+      <title>Tester un réfrigérateur inverter avec le testeur multifonctionnel</title>
+      <item identifier="ITEM-1" identifierref="RES-1" isvisible="true">
+        <title>Tester un réfrigérateur inverter avec le testeur multifonctionnel</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="audio/conclusion.mp3"/>
+      <file href="audio/faq1.mp3"/>
+      <file href="audio/faq2.mp3"/>
+      <file href="audio/faq3.mp3"/>
+      <file href="audio/faq4.mp3"/>
+      <file href="audio/faq5.mp3"/>
+      <file href="audio/q01.mp3"/>
+      <file href="audio/q01c.mp3"/>
+      <file href="audio/q02.mp3"/>
+      <file href="audio/q02c.mp3"/>
+      <file href="audio/q03.mp3"/>
+      <file href="audio/q03c.mp3"/>
+      <file href="audio/q04.mp3"/>
+      <file href="audio/q04c.mp3"/>
+      <file href="audio/q05.mp3"/>
+      <file href="audio/q05c.mp3"/>
+      <file href="audio/q06.mp3"/>
+      <file href="audio/q06c.mp3"/>
+      <file href="audio/q07.mp3"/>
+      <file href="audio/q07c.mp3"/>
+      <file href="audio/q08.mp3"/>
+      <file href="audio/q08c.mp3"/>
+      <file href="audio/q09.mp3"/>
+      <file href="audio/q09c.mp3"/>
+      <file href="audio/q10.mp3"/>
+      <file href="audio/q10c.mp3"/>
+      <file href="audio/quizintro.mp3"/>
+      <file href="audio/s01.mp3"/>
+      <file href="audio/s02.mp3"/>
+      <file href="audio/s03.mp3"/>
+      <file href="audio/s04.mp3"/>
+      <file href="audio/s05.mp3"/>
+      <file href="audio/s06.mp3"/>
+      <file href="audio/s07.mp3"/>
+      <file href="audio/s08.mp3"/>
+      <file href="audio/s09.mp3"/>
+      <file href="audio/s10.mp3"/>
+      <file href="audio/s11.mp3"/>
+      <file href="audio/s12.mp3"/>
+      <file href="audio/s13.mp3"/>
+      <file href="audio/s14.mp3"/>
+      <file href="audio/s15.mp3"/>
+      <file href="audio/s16.mp3"/>
+      <file href="audio/s17.mp3"/>
+      <file href="audio/s18.mp3"/>
+    </resource>
+  </resources>
+</manifest>
